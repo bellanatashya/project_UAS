@@ -4,4 +4,4 @@ NIM : 180010122
 KELAS :JA 181   
 PRODI : Sistem Komputer 
 
-JUDUL : List pemapil Handphone
+JUDUL : List Penjualan Handphone
